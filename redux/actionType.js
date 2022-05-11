@@ -1,0 +1,1 @@
+export const GET_EDITOR_DATA = "GET_EDITOR_DATA";
